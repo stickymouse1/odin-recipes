@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+div.container {
+    text-align: center;
+  }
+  
+  ul.my_ul {
+    display: inline-block;
+    text-align: left;
+    border: solid;
+    background-color: darkcyan;
+  }
+body {
+    background-image: url(backgroundmg.jpg);
+    background-size: cover;
+}
+img {
+    border-radius: 1400px;
+    border: solid;
+}
+h3 {
+    border: solid;
+    border-radius: 10px;
+    background-color: black;
+    color: goldenrod;
+}
+h2 {
+    color: goldenrod;
+}
